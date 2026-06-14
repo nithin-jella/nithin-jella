@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Nithin Jella 👋</h1>
+<h2 align="center">Hi, I'm Nithin Jella 👋</h2>
 
 <h3 align="center">
 AI/ML Engineer | GenAI Engineer | Data Scientist
@@ -29,7 +29,7 @@ AI/ML Engineer | GenAI Engineer | Data Scientist
 <p align="center">
 Master's in Engineering Data Science @ University of Houston  
 <br>
-Building intelligent AI systems with LLMs, RAG, Machine Learning, and Python
+Open to Data Science, AI/ML Engineering, GenAI, Data Engineer, and Data Analytics opportunities
 </p>
 
 ---
