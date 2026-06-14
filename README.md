@@ -30,10 +30,10 @@ Open to Data Science, AI/ML Engineering, GenAI, Data Engineer, and Data Analytic
 ______________________________________________________________________________________________________________________
 
 ## About Me
-</p>
+
 I am passionate about building AI-powered applications, machine learning models, and data-driven systems.  
 My interests include Generative AI, NLP, RAG pipelines, model fine-tuning, data analytics, and intelligent automation.
-  </p>
+
 ---
 
 ## Tech Stack
