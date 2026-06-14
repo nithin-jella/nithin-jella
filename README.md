@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-<h6
+<h1
 </p>
 <p align="center">
 Master's in Data Science @ University of Houston  
@@ -28,7 +28,7 @@ Master's in Data Science @ University of Houston
 <br>
 Open to Data Science, AI/ML Engineering, GenAI, Data Engineer, and Data Analytics opportunities
 </p>
-</h6>
+</h1>
 ______________________________________________________________________________________________________________________
 
 ## About Me
