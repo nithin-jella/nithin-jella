@@ -1,3 +1,4 @@
+<h4 align="center">Hi, I'm Nithin Jella 👋</h4>
 <p align="center">
   <img src="banner1.png" alt="Nithin Jella Banner" width="100%" />
 </p>
@@ -20,7 +21,7 @@
   </a>
 </p>
 
-<h2 align="center">Hi, I'm Nithin Jella 👋</h2>
+
 
 <h3 align="center">
 AI/ML Engineer | GenAI Engineer | Data Scientist
