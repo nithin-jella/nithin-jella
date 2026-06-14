@@ -20,19 +20,13 @@
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
-
-<h3 align="center">
-AI/ML Engineer | GenAI Engineer | Data Scientist
-</h3>
-
+<h4
 <p align="center">
 Master's in Engineering Data Science @ University of Houston  
 <br>
 Open to Data Science, AI/ML Engineering, GenAI, Data Engineer, and Data Analytics opportunities
 </p>
-
+</h4>
 ---
 
 ## About Me
