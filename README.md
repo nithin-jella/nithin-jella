@@ -74,7 +74,7 @@ The project evaluates results using BLEU, ROUGE, BERTScore, and Perplexity.
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nithin-kumar-jella-031883322">LinkedIn</a> •
+  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
   <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
   <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
