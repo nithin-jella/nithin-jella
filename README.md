@@ -1,4 +1,5 @@
 <h4 align="center">Hi, I'm Nithin Jella 👋</h4>
+<h5
 <p align="center">
   <img src="banner1.png" alt="Nithin Jella Banner" width="100%" />
 </p>
@@ -68,5 +69,5 @@ The project evaluates results using BLEU, ROUGE, BERTScore, and Perplexity.
   <a href="mailto:nithink.jella@gmail.com"">Email</a>
 </p>
 ```
-
+</h5>
 
