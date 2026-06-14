@@ -15,7 +15,7 @@
   <a href="https://github.com/nithin-jella">
     <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:nithink.jella@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -65,7 +65,7 @@ The project evaluates results using BLEU, ROUGE, BERTScore, and Perplexity.
 <p align="center">
   <a href="https://www.linkedin.com/in/nithin-kumar-jella-031883322/">LinkedIn</a> •
   <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:nithink.jella@gmail.com"">Email</a>
 </p>
 ```
 
