@@ -22,12 +22,12 @@
 </p>
 <h4
 <p align="center">
-Master's in Engineering Data Science @ University of Houston  
+Master's in Data Science @ University of Houston  
 <br>
 Open to Data Science, AI/ML Engineering, GenAI, Data Engineer, and Data Analytics opportunities
 </p>
 </h4>
----
+_____________________________________________________________________________________________
 
 ## About Me
 
