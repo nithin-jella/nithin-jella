@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://www.linkedin.com/in/nithin-kumar-jella-031883322/">
     <img src="https://img.shields.io/badge/PORTFOLIO-008080?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="YOUR_RESUME_LINK">
