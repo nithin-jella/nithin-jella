@@ -35,7 +35,8 @@ ________________________________________________________________________________
 <h5
 I am passionate about building AI-powered applications, machine learning models, and data-driven systems.  
 My interests include Generative AI, NLP, RAG pipelines, model fine-tuning, data analytics, and intelligent automation.
-</h5>
+
+  </h5>
 ---
 
 ## Tech Stack
