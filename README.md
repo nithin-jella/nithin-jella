@@ -27,7 +27,7 @@ Master's in Data Science @ University of Houston
 Open to Data Science, AI/ML Engineering, GenAI, Data Engineer, and Data Analytics opportunities
 </p>
 </h4>
-____________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________
 
 ## About Me
 
