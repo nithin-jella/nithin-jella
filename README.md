@@ -19,8 +19,9 @@
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+<h4 
 </p>
-<h4
 <p align="center">
 Master's in Data Science @ University of Houston  
 <br>
