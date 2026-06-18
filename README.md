@@ -39,6 +39,18 @@ I am most excited by opportunities in data science, ML engineering, GenAI, and a
 
 ---
 
+## Education
+University of Houston — Master of Science, Engineering Data Science (May 2026)
+Natural Language Processing, Artificial Intelligence for Engineers, Data Science, Probability & Statistics, Machine Learning, Data Mining for Engineers, Database Management Tools, Digital Image Processing, Data Analysis in Construction Management,
+Data Analytics for Engineering Management
+; 
+CVR College of Engineering — Bachelor of Technology, Major : Electrical and Electronics Engineering , Minor : IoT (June 2024)
+Python, C++, Cloud Computing, Smart Technologies, IOT Automation with Raspberry Pi, Fog & Edge computing for IoT ·
+
+---
+
+---
+
 ## Tech Stack
 **Languages:** Python, SQL, JavaScript  
 **AI/ML:** Machine Learning, Deep Learning, NLP, LLMs, RAG, Fine-tuning  
