@@ -287,14 +287,22 @@ I am currently investing time learning:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithin-jella&theme=tokyonight" />
 </p>
-
-
-
+---
 ## Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/nithin-kumar-jella-031883322/">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
-  <a href="mailto:nithink.jella@gmail.com"">Email</a>
+
+If you are working on something meaningful — especially at the intersection of data, AI, and business outcomes — I would be glad to connect, collaborate, or contribute. You can reach me at:
+
+
+
+- **Portfolio:** [View Portfolio](YOUR_PORTFOLIO_LINK)
+
+- **Resume:** [View Resume](YOUR_RESUME_LINK)
+
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/nithin-kumar-jella-031883322/)
+
+- **GitHub:** [View GitHub](https://github.com/nithin-jella/)
+
+- **Email:** [nithink.jella@gmail.com](mailto:nithink.jella@gmail.com)
 </p>
 ```
 </h5>
