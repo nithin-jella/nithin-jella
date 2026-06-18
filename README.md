@@ -65,12 +65,155 @@ I am most excited by opportunities in data science, ML engineering, GenAI, and a
 ---
 
 ## Tech Stack
-**Languages:** Python, SQL, JavaScript  
-**AI/ML:** Machine Learning, Deep Learning, NLP, LLMs, RAG, Fine-tuning  
-**Frameworks:** Scikit-learn, PyTorch, TensorFlow, LangChain  
-**Data Tools:** Pandas, NumPy, Matplotlib, Power BI  
-**Databases:** MySQL, PostgreSQL, MongoDB, ChromaDB  
-**Tools:** GitHub, VS Code, Docker, Google Colab
+
+### Programming
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70"/><br>
+      Python
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70"/><br>
+      SQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="70" height="70"/><br>
+      R
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/><br>
+      Java
+    </td>
+  </tr>
+</table>
+
+### Databases
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" height="70"/><br>
+      PostgreSQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/><br>
+      MySQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" height="70"/><br>
+      MongoDB
+    </td>
+  </tr>
+</table>
+
+### Data & Visualization
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/power-bi.png" width="70" height="70"/><br>
+      Power BI
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="70" height="70"/><br>
+      Tableau
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="70" height="70"/><br>
+      Matplotlib
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="70" height="70"/><br>
+      Seaborn
+    </td>
+  </tr>
+</table>
+
+### AI / Machine Learning
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="70" height="70"/><br>
+      PyTorch
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="70" height="70"/><br>
+      TensorFlow
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="70" height="70"/><br>
+      Keras
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70"/><br>
+      Scikit-learn
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="70" height="70"/><br>
+      Hugging Face
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70" height="70"/><br>
+      NumPy
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70" height="70"/><br>
+      Pandas
+    </td>
+    <td align="center" width="120"></td>
+  </tr>
+</table>
+
+### Data Engineering & Cloud
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="70" height="70"/><br>
+      PySpark
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" width="70" height="70"/><br>
+      Hadoop
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70"/><br>
+      Docker
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" height="70"/><br>
+      AWS
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="70" height="70"/><br>
+      GCP
+    </td>
+  </tr>
+</table>
+
+### Collaboration
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70"/><br>
+      Git
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="70" height="70"/><br>
+      Jira
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="70" height="70"/><br>
+      Confluence
+    </td>
+  </tr>
+</table>
 
 ---
 
