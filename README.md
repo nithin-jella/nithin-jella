@@ -54,8 +54,6 @@ I am most excited by opportunities in data science, ML engineering, GenAI, and a
 
 ---
 
----
-
 ## Tech Stack
 **Languages:** Python, SQL, JavaScript  
 **AI/ML:** Machine Learning, Deep Learning, NLP, LLMs, RAG, Fine-tuning  
