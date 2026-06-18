@@ -238,6 +238,23 @@ The project evaluates results using BLEU, ROUGE, BERTScore, and Perplexity.
 - **Modeling & Experimentation:** Statistical analysis, experiment design, predictive modeling, classification, clustering, and regression
 
 ---
+## Values I Bring to My Work
+
+
+
+- Simplicity and clarity in how I design solutions
+
+- Dedication and planning — I always stay prepared and think ahead
+
+- Structure and organization in how I approach problems
+
+- Collaboration and promptness in team environments
+
+- Attention to detail, especially when dealing with automation or sensitive data
+
+- A constant eagerness to learn and push past what is comfortable
+
+---
 ## Certifications and Learning Highlights
 
 
