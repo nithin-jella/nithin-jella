@@ -223,6 +223,21 @@ An NLP and Generative AI project that fine-tunes transformer models using LoRA t
 The project evaluates results using BLEU, ROUGE, BERTScore, and Perplexity.
 
 ---
+## What I Work With
+
+
+
+- **Data & Analytics:** Data analysis, business intelligence, dashboard development, SQL, query optimization, and data visualization
+
+- **AI & Machine Learning:** Applied machine learning, generative AI, RAG, AI agents, NLP, model evaluation, and validation
+
+- **Data Engineering:** ETL, data pipelines, workflow automation, backend systems, APIs, Docker, Hadoop, and PySpark
+
+- **Cloud & Databases:** AWS, GCP, Snowflake, PostgreSQL, MySQL, MongoDB, and cloud-based data solutions
+
+- **Modeling & Experimentation:** Statistical analysis, experiment design, predictive modeling, classification, clustering, and regression
+
+---
 ## Certifications and Learning Highlights
 
 
