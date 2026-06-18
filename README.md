@@ -279,14 +279,6 @@ I am currently investing time learning:
 - Generative AI for data science
 - Cloud-based AI deployment
 - Building smarter, interpretable ML systems
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithin-jella&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithin-jella&theme=tokyonight" />
-</p>
 ---
 ## Connect With Me
 
@@ -303,6 +295,16 @@ If you are working on something meaningful — especially at the intersection of
 - **GitHub:** [View GitHub](https://github.com/nithin-jella/)
 
 - **Email:** [nithink.jella@gmail.com](mailto:nithink.jella@gmail.com)
+  
+---
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nithin-jella&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithin-jella&theme=tokyonight" />
+</p>
+
 </p>
 ```
 </h5>
