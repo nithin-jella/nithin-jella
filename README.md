@@ -45,14 +45,14 @@ I am most excited by opportunities in data science, ML engineering, GenAI, and a
 
 **University of Houston** — 
 <br>
-*Master of Science, Engineering Data Science* (Dec 2020  -  May 2026)  
+*Master of Science, Engineering Data Science* (Aug 2024  -  May 2026)  
  • Natural Language Processing, Artificial Intelligence for Engineers, Data Science, Probability & Statistics, Machine Learning, Data Mining for Engineers, Database Management Tools, Digital Image Processing, Data Analysis in Construction Management, Data Analytics for Engineering Management
 
 <br>
 
 **CVR College of Engineering** — 
 <br>
-*Bachelor of Technology, Electrical and Electronics Engineering* (Aug 2024 - June 2024)  
+*Bachelor of Technology, Electrical and Electronics Engineering* (Dec 2020 - June 2024)  
 **Minor:** Internet of Things  
  • Python, C++, Cloud Computing, Smart Technologies, IoT Automation with Raspberry Pi, Fog & Edge Computing for IoT
 
