@@ -223,6 +223,30 @@ An NLP and Generative AI project that fine-tunes transformer models using LoRA t
 The project evaluates results using BLEU, ROUGE, BERTScore, and Perplexity.
 
 ---
+## Certifications and Learning Highlights
+
+
+
+I enjoy learning new tools, especially in AI, cloud, and data science. Some of my recent credentials include:
+
+- Columbia+ : Prompt Engineering & Programming with OpenAI
+- Columbia+ : Building Customized LLMs with OpenAI
+- Snowflake: SnowConvert AI Essentials
+- HPEDSI: Scientific Programming with Python
+- HCL GUVI: Build & Deploy Apps with Google AI Studio & Multilingual AI Speech App with Vibe Coding
+- HPEDSI: Introduction to Deep Learning
+- HPEDSI: Data Visualization using Paraview and Tableau
+- IBM: Agentic AI with LangChain and LangGraph
+- Google Cloud: Introduction to Generative AI
+- Coursera: GenAI for Data Scientists
+
+I am currently investing time learning:
+
+- Advanced prompt engineering
+- Agentic AI and LLM applications
+- Generative AI for data science
+- Cloud-based AI deployment
+- Building smarter, interpretable ML systems
 
 ## GitHub Stats
 <p align="center">
