@@ -295,7 +295,14 @@ If you are working on something meaningful — especially at the intersection of
 - **GitHub:** [View GitHub](https://github.com/nithin-jella/)
 
 - **Email:** [nithink.jella@gmail.com](mailto:nithink.jella@gmail.com)
-  
+
+I am actively interested in opportunities where I can apply data, AI, and engineering to build practical, impactful systems, especially across:
+
+- **Data Science**
+- **Applied AI**
+- **Machine Learning Engineering**
+- **AI Engineering**
+- **Gen AI role**
 ---
 ## GitHub Stats
 <p align="center">
