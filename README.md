@@ -43,7 +43,8 @@ I am most excited by opportunities in data science, ML engineering, GenAI, and a
 
 
 
-**University of Houston** — *Master of Science, Engineering Data Science* (May 2026)  
+**University of Houston** — 
+*Master of Science, Engineering Data Science* (May 2026)  
  • Natural Language Processing, Artificial Intelligence for Engineers, Data Science, Probability & Statistics, Machine Learning, Data Mining for Engineers, Database Management Tools, Digital Image Processing, Data Analysis in Construction Management, Data Analytics for Engineering Management
 
 <br>
