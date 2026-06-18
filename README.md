@@ -53,6 +53,12 @@ I am most excited by opportunities in data science, ML engineering, GenAI, and a
  • Python, C++, Cloud Computing, Smart Technologies, IoT Automation with Raspberry Pi, Fog & Edge Computing for IoT
 
 ---
+## What Sets Me Apart
+
+- I focus on **real-world deployment and impact**
+- I build **end-to-end systems**, not just models
+- I combine **AI, data engineering, and analytics** into usable product
+---
 
 ## Tech Stack
 **Languages:** Python, SQL, JavaScript  
