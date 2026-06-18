@@ -217,8 +217,8 @@ I am most excited by opportunities in data science, ML engineering, GenAI, and a
 
 ---
 
-## Featured Project
-### Commonsense-Driven Fine-Tuning of Transformer Models for Coherent Story Generation
+## Projects
+### Multi-Agent System for Proactive Mental Wellness 
 An NLP and Generative AI project that fine-tunes transformer models using LoRA to generate coherent short stories.  
 The project evaluates results using BLEU, ROUGE, BERTScore, and Perplexity.
 
