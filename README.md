@@ -37,8 +37,6 @@ I enjoy building AI and data-driven systems that solve practical problems throug
 
 I am most excited by opportunities in data science, ML engineering, GenAI, and analytics engineering where strong technical work translates into clear business or user impact.
 
-
-
 ---
 
 ## Tech Stack
