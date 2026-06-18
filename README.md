@@ -31,8 +31,7 @@ ________________________________________________________________________________
 
 ## About Me
 
-I am passionate about building AI-powered applications, machine learning models, and data-driven systems.  
-My interests include Generative AI, NLP, RAG pipelines, model fine-tuning, data analytics, and intelligent automation.
+I am currently pursuing my Master’s in Engineering Data Science at the University of Houston. My professional journey began in Data Science roles where I focused on building scalable systems, automating manual processes, and improving data reliability through structured validation. These early experiences with CI/CD pipelines, testing frameworks, and automation tools laid the technical foundation that I now apply to more advanced data and AI problems.
 
 ---
 
