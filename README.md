@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 ## About Me
 
-I am currently pursuing my Master’s in Engineering Data Science at the University of Houston with a 4.0 GPA. My professional journey began in Data Science roles where I focused on building scalable systems, automating manual processes, and improving data reliability through structured validation. These early experiences with CI/CD pipelines, testing frameworks, and automation tools laid the technical foundation that I now apply to more advanced data and AI problems.
+I graduated with a Master’s degree in Engineering Data Science from the University of Houston with a 4.0 GPA. My professional journey began in Data Science roles where I focused on building scalable systems, automating manual processes, and improving data reliability through structured validation. These early experiences with CI/CD pipelines, testing frameworks, and automation tools laid the technical foundation that I now apply to more advanced data and AI problems.
 
 I enjoy building AI and data-driven systems that solve practical problems through machine learning, NLP, analytics, and intelligent automation. My work focuses on combining strong technical foundations with real-world impact across healthcare, finance, and applied AI systems.  I enjoy taking messy, ambiguous problems and designing clean, structured solutions that are easy to understand and implement. 
 
